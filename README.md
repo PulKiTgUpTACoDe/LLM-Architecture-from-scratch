@@ -1,4 +1,4 @@
-# gpt2-124M-pytorch
+# GPT2-124M-param
 
 A clean, from-scratch implementation of OpenAI's **GPT-2 (124M)** language model in PyTorch — no frameworks, no abstractions, just raw transformer architecture.
 
